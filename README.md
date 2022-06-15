@@ -1,6 +1,5 @@
 # university-of-ismai
 <p align="center">
-  <img src="[https://i.ibb.co/bKLYWDR/3.png](https://i.ibb.co/bKLYWDR/3.png)" width="350">
+  <img src="https://i.ibb.co/bKLYWDR/3.png" width="350" alt="ismai">
   
 </p>
-[https://i.ibb.co/bKLYWDR/3.png](https://i.ibb.co/bKLYWDR/3.png)
